@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+    background-color: #df94ff
+}
+.Imghobby{
+    width: 350px;
+    height: 200;
+}
+
+.divhobby{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+#code{
+    font-size: 40px;
+    line-height: 1.2;
+    font-family:cursive;
+    font-weight: 600;
+}
+#code2{
+    font-size: 30px;
+    line-height: 1.2;
+    font-family:cursive;
+    font-weight: 200;
+}
+
+}
+#sectionhobby{
+    padding: 50px;
+    text-align: center;
+    font-size: 40px;
+    
+}
+.line{
+    height:6px;
+    background-color: bisque;
+    width: 1000px;
+    margin: 8px auto;
+}
