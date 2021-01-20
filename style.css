@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    padding-top: 800px;
+    padding-top: 80px;
     text-align: center;
     background-color: #df94ff
 }
@@ -29,7 +29,7 @@ body {
     font-weight: 200;
 }
 
-}
+
 #sectionhobby{
     padding: 50px;
     text-align: center;
