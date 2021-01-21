@@ -4,11 +4,27 @@ body {
     text-align: center;
     background-color: #df94ff
 }
-.Imghobby{
-    width: 350px;
-    height: 200;
+.Img{
+    width: 200px;
+    height: 220;
 }
-
+#321{
+    width: 200px;
+    height: 150;
+}
+#favbook{
+    width: 235px;
+    height: 250;
+}
+#favbook2{
+    width: 235px;
+    height: 250;
+}
+#PrimeMinister_Narendra_Mod{
+    width: 235px;
+    height: 100;
+    
+}
 .divhobby{
     display: table-cell;
     position: relative;
@@ -21,7 +37,7 @@ body {
     line-height: 1.2;
     font-family:cursive;
     font-weight: 600;
-    color: #fffa5e;
+    color: #fffa5e;ss
     
 }
 #code2{
