@@ -89,3 +89,34 @@ body {
     background-color: #80ffff;
 }
 
+
+
+
+
+
+
+body {
+    text-align: center
+}
+
+#My coding Projects{
+    width: 100%;
+    height: 800px;
+    
+}
+
+h1{
+   font-family: 'Potta One', cursive;
+    color: #fffd82;
+    font-size: 45px;
+}
+img:hover{transform: scale(0.9)}
+.line{
+    height: 6px;
+    background-color: aqua;
+    width: 1000px;
+    margin: 8px auto;
+        
+}
+
+
