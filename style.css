@@ -4,68 +4,78 @@ body {
     text-align: center;
     background-color: #df94ff
 }
-.Img{
+
+.Img {
     width: 200px;
     height: 220;
 }
-#321{
+
+#321 {
     width: 200px;
     height: 150;
 }
-#favbook{
+
+#favbook {
     width: 235px;
     height: 250;
 }
-#favbook2{
+
+#favbook2 {
     width: 235px;
     height: 250;
 }
-#PrimeMinister_Narendra_Mod{
+
+#PrimeMinister_Narendra_Mod {
     width: 235px;
     height: 100;
-    
+
 }
-.divhobby{
+
+.divhobby {
     display: table-cell;
     position: relative;
     text-align: center;
     vertical-align: middle;
-    
+
 }
-#code{
+
+#code {
     font-size: 40px;
     line-height: 1.2;
-    font-family:cursive;
+    font-family: cursive;
     font-weight: 600;
-    color: #fffa5e;ss
-    
+    color: #fffa5e;
+    ss
 }
-#code2{
+
+#code2 {
     font-size: 30px;
     line-height: 1.2;
-    font-family:cursive;
+    font-family: cursive;
     font-weight: 200;
     font-family: 'Potta One', cursive;
     color: #fffa5e;
 }
 
 
-#sectionhobby{
+#sectionhobby {
     padding: 50px;
     text-align: center;
     font-size: 40px;
-    
+
 }
-.line{
-    height:6px;
+
+.line {
+    height: 6px;
     background-color: bisque;
     width: 1000px;
     margin: 8px auto;
 }
+
 .Menu {
     list-style: none;
     font-family: cursive;
-    position: absolute;
+    position: fixed;
     top: 10px;
     right: 30px;
     z-index: 10;
@@ -74,7 +84,7 @@ body {
 
 .link {
     float: left;
-    color:#3517cf;
+    color: #3517cf;
     padding-top: 5px;
     padding-left: 9px;
     padding-right: 9px;
@@ -90,7 +100,9 @@ body {
 }
 
 
-
+html {
+    scroll-behavior: smooth;
+}
 
 
 
@@ -99,24 +111,43 @@ body {
     text-align: center
 }
 
-#My coding Projects{
+#My coding Projects {
     width: 100%;
     height: 800px;
-    
+
 }
 
-h1{
-   font-family: 'Potta One', cursive;
+h1 {
+    font-family: 'Potta One', cursive;
     color: #fffd82;
     font-size: 45px;
 }
-img:hover{transform: scale(0.9)}
-.line{
+
+img:hover {
+    transform: scale(0.9)
+}
+
+.line {
     height: 6px;
     background-color: aqua;
     width: 1000px;
     margin: 8px auto;
-        
+
 }
 
+#Contact {
+    background-color:aquamarine;
+        
+    font-size: 30px;
+    text-align: center;
+}
 
+.contact1 h3 {
+    display: inline;
+
+
+}
+
+#Contact iframe {
+    width: 100%;
+}
