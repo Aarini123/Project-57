@@ -145,9 +145,29 @@ img:hover {
 .contact1 h3 {
     display: inline;
 
-
 }
 
 #Contact iframe {
     width: 100%;
+}
+#orchid{
+    width: 350px;
+    height: 700px;
+}
+
+
+#gallery{
+    background-color: #e587ff;
+}
+
+
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: #00b7c4;
+}
+#sunflower{
+    width: 350px;
+    height: 500px;
 }
